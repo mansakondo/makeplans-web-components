@@ -6,6 +6,12 @@
   "repository": "https://github.com/mansakondo/makeplans-web-components",
   "author": "mansakondo",
   "license": "MIT",
+  "dependencies": {
+    "@twind/forms": "^0.1.4",
+    "construct-style-sheets-polyfill": "3.0.3",
+    "twind": "^0.16.17",
+    "whatwg-fetch": "^3.6.2"
+  },
   "scripts": {
     "build": "node esbuild.config.js"
   },
