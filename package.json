@@ -1,0 +1,9 @@
+{
+  "name": "makeplans-web-components",
+  "version": "1.0.0",
+  "description": "MakePlans Web Components",
+  "main": "index.js",
+  "repository": "https://github.com/mansakondo/makeplans-web-components",
+  "author": "mansakondo",
+  "license": "MIT"
+}
